@@ -11,3 +11,20 @@ img {
     margin-right: auto;
     margin-left: auto;
 }
+
+h2 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.waffles {
+    color: darkgoldenrod;
+}
+
+.buffalochicken {
+    color: coral;
+}
+
+.chocolatechip {
+    color: peru;
+}
